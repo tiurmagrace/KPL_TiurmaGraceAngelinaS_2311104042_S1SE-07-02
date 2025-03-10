@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\TPMODUL3\TPMODUL3\bin\Debug\TPMODUL3.exe.config
+C:\Users\USER\source\repos\TPMODUL3\TPMODUL3\bin\Debug\TPMODUL3.exe
+C:\Users\USER\source\repos\TPMODUL3\TPMODUL3\bin\Debug\TPMODUL3.pdb
+C:\Users\USER\source\repos\TPMODUL3\TPMODUL3\obj\Debug\TPMODUL3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TPMODUL3\TPMODUL3\obj\Debug\TPMODUL3.Properties.Resources.resources
+C:\Users\USER\source\repos\TPMODUL3\TPMODUL3\obj\Debug\TPMODUL3.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\TPMODUL3\TPMODUL3\obj\Debug\TPMODUL3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TPMODUL3\TPMODUL3\obj\Debug\TPMODUL3.exe
+C:\Users\USER\source\repos\TPMODUL3\TPMODUL3\obj\Debug\TPMODUL3.pdb
